@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1TbIXxL+SKNZFZTo5fkH3k2Id23PRTU70oYeZMF2szoFYN4cURSvQv6bhErfTLxoRXG4YKYq57zJDefJcCK1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olgai\\Desktop\\MvcApiCall\\MvcApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olgai\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\olgai\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
